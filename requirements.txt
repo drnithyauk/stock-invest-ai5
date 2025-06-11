@@ -1,0 +1,8 @@
+streamlit==1.45.1
+pandas==2.3.0
+yfinance==0.2.62
+plotly==6.1.2
+alpaca-trade-api==0.26
+requests==2.32.4
+beautifulsoup4==4.13.4
+altair==5.5.0
